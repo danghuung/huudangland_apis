@@ -1,3 +1,3 @@
 # Django Rest Framework
 
-- ReactJs: https://github.com/huudangnguyen/huudangland_apis
+- ReactJs: https://github.com/huudangnguyen/huudangland_reactjs
